@@ -1,3 +1,3 @@
-funciton shoud(string){
+funciton shout(string){
   return string.toUpperCase()
 }
